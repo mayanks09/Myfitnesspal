@@ -96,3 +96,41 @@ http://localhost:3000
 ```
 
 > **Note:** Ensure both the React application and the JSON Server are running simultaneously for the application to function properly.
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Landing Page
+
+![Landing Page](./assets/landing-page.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](./assets/dashboard.png)
+
+---
+
+### 🥗 Food Diary
+
+![Food Diary](./assets/food-diary.png)
+
+---
+
+### 💪 Exercise Diary
+
+![Exercise Diary](./assets/exercise-diary.png)
+
+---
+
+### 🖨️ Printable Reports
+
+![Reports](./assets/reports.png)
+
+---
+
+### 📰 Blogs & Articles
+
+![Blog](./assets/blog.png)
